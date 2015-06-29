@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "joachim.bakke@gmail.com",
+    "longName": "Boat display",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Boat display",
+    "uuid": "368be7c0-1563-4c77-8805-56ae4377aa19",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
